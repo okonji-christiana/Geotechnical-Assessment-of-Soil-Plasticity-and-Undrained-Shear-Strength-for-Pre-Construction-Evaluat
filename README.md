@@ -1,3 +1,3 @@
-## Geotechnical Assessment of Soil Plasticity and Undrained Shear Strength for Pre-Construction Evaluation of a Proposed Building Site Project Overview
+## Gis-Based mapping and Accessibility Analysis of schools in North-Eastern Nigeria
 
-This project presents a preliminary geotechnical assessment of the soil conditions at a hypothetical building site prior to construction. 
+This project investigates the spatial distribution and accessibility of schools in North-Eastern Nigeria using Geographic Information Systems (GIS).
